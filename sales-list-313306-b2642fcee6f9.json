@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sales-list-313306",
+  "private_key_id": "b2642fcee6f9609ed17c4fb684306e61b6b78c82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCudsoZajNsdhOv\n+uahw4v4wo8DYDUXrfd4GNwGEIwmnbfqg7wEQL76+juImmMxkFE9vWlbvBoxHXOS\nG6a0CbvrafFW1NMhaycdcBnhKgsJZFwHPJFxD3TvM848+PRV/6vsJL+eHnEfZIoc\noKT9rUoQvZlCDkk80SRq6DFG1Pzquo+QmaldqK1zOXNooRDPnM9lKbkVO/3pz1eT\nHJNqZUrM1I5Gk5HotLoGzDhYHlqohqQBaaUJVCEYfbk8bOUcAgn41u0ADjPE86FL\niU7lIcf162fYJiRcJGaMVcv5f1miTDV/h+fTqTns3LagVhoMTaCE3gu9FiraJddc\nqmSHMEcTAgMBAAECggEAF2DXqBwxE+Gmtbg7W4Xmpcj8fQlRVAD93lwGb9Gb1jjg\nQk6wzSkX7m3FuIJntGaQXGObUK2eHOLDb9rAtfNv+RXTPz15pUrEjQ9OiHunyvRl\n2JpnKu1VUBBzHHyH0VZXZWdvPfL6WaiRUVC9izjDagbeGJntenbUGHdQ0xsLYTCx\n/O7GHm6qHElRBALaDURrxnj4OZSmyLp+bgSq5mbbPbgw1NiBlPEZ4DtDK7NYVbQE\nxvjyddar0QGVNDvrIwL4aMAcAi8EPp4sv+59GZRrQBVD1nC4GM75Jzb+DLjqXG8t\nVj42sywEQ2XNtqITjTVjLqOAykyZL/QB8yla92ysIQKBgQDfxXBXiRdr0OvL9YM7\nJNh9Gfw13O0RxJxrEOh0VuKUc7icsAkDXjJDk+1/lXyjutHRBjJdiLxEbVl0xOy/\n3LxnTn4bli8aF3siEWZu8OLkcD1FwzF57F40QEqjBgE1vLHmdWWEJH0IexbeTXvZ\n9Kf9iEH+xe0lZpig9aaeKP9aSwKBgQDHl14rBmRZRsmQcLrlWLk2v9/zqqtglzLU\n8Kbynp/BszNsSBZZrZZC3ykDxAQRQ7+YiOVEKAA7ICtfwc084+k+vtqS9u4hJpur\nxBlIi1FYk3uHtY8W8tyzqWEd/7U0AcaQ4N7KfKm7V/GJ1nG2Dmh3qxWu7n2/amv7\n1YP5pm/JWQKBgQDY3SYFD62NJcp/vg5SkWDlzPsq0FNI9vyInrhJl7K7IHN4FvqF\nMxMPfxuanCtRGkshghnpoAylXDxn+Dlhr/E/RUjeP2yiosMIv0hAmF+r+ELJi2Q1\nvyeFCBHNcJJXm+nlaTzbFem/AFunUfyHvJ3aDeW3neY4avfcdnXlreHbhQKBgHhH\n8VkObhUbQseIGCm00VF8SnNmzAbWt6x6JrIaA/7QhtHfk5CRuvcr02TQkP7yjBlZ\njokHbjQzi9AWVCA43UyR6dkddJ6HzNKzx+TfCLPPlWdQdB4JWBXxonRYsJPZ6hdP\nXRQ8EnGzav19PWPQxQYxFU0prqBXeyH2J6WgtsdpAoGAYuBYzRHlz8WIOBgMHpQ2\nqxLEY6pP0g+0Sox3NYMysmpsmEChJCETocK/3F5+/vax4beVVyw8hoS7lEGG7yq2\nARneyEEl9fArlVqkVRbwmOVaddaEoLwVsa++Pp3E7VMLIm04N6zI+dG2JstItCfF\nZ9kK3aKvGoGcwEs4RZegIcA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "magjobs-api@sales-list-313306.iam.gserviceaccount.com",
+  "client_id": "100647840370412421669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/magjobs-api%40sales-list-313306.iam.gserviceaccount.com"
+}
